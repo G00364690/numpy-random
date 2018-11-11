@@ -76,3 +76,14 @@ The numbers are generated in a sequence. The sequence is deterministic and is se
 
 https://mvpprograms.com/help/mvpstats/distributions/WhatIsAGeometricDistribution
 A Geometric Distribution is a discrete Random Sampling Distribution. The sampling is from a series of independent trials each of which may have outcomes which fall into one of two classifications. The Geometric Distribution generates the probability of X-trials required until the first occurrence is obtained. The probability of occurrence of each classification remains constant for each trial. The outcomes of each successive trial also remains independent. This sampling situation is sometimes referred to as a Bernoulli Trial or Process.
+
+https://www.statisticshowto.datasciencecentral.com/rayleigh-distribution/
+The Rayleigh distribution is a continuous probability distribution named after the English Lord Rayleigh. The distribution is widely used:In communications theory, to model multiple paths of dense scattered signals reaching a receiver; In the physical sciences to model wind speed, wave heights and sound/light radiation; In engineering, to measure the lifetime of an object, where the lifetime depends on the object’s age. For example: resistors, transformers, and capacitors in aircraft radar sets.1; In medical imaging science, to model noise variance in magnetic resonance imaging.
+
+https://stattrek.com/probability-distributions/poisson.aspx
+A Poisson distribution is the probability distribution that results from a Poisson experiment.
+A Poisson experiment is a statistical experiment that has the following properties:
+The experiment results in outcomes that can be classified as successes or failures.
+The average number of successes (μ) that occurs in a specified region is known.
+The probability that a success will occur is proportional to the size of the region.
+The probability that a success will occur in an extremely small region is virtually zero.
