@@ -10,11 +10,11 @@ In order to complete this assigment it was necessary to:
 1. Download & install Anaconda
 2. Download & install Console Emulator x64
 3. Create directory and files such as this README, LICENSE and .gitignore using Linux commands
-4. Launch a jupyter notebook from the command line and create Numpy-random.ipynb
+4. Launch a jupyter notebook from the command line and create Numpy-Random.ipynb
 5. Sync files on my local machine to repository on GitHub allow me to push/pull updates to the jupyter notebook over various commits
 
 To review the analysis methods and conclusions from the assigment:
-1. Simply launch the Jupyter Notebook entitled "Numpy-random.ipynb"
+1. Simply launch the Jupyter Notebook entitled "Numpy-Random.ipynb"
 2. Review the full analysis in the Jupyter Notebook
 3. Run individual elements of the python code by highlighting cells and using command SHIFT+ENTER
 4. Consult the "Initial Research" section of this README file for information on my approach to this assignment
