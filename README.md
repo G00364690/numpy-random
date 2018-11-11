@@ -90,3 +90,7 @@ The experiment results in outcomes that can be classified as successes or failur
 The average number of successes (μ) that occurs in a specified region is known.
 The probability that a success will occur is proportional to the size of the region.
 The probability that a success will occur in an extremely small region is virtually zero.
+
+### Uniform Distribution
+https://www.investopedia.com/terms/u/uniform-distribution.asp
+In statistics, a type of probability distribution in which all outcomes are equally likely; each variable has the same probability that it will be the outcome. A deck of cards has within it uniform distributions because the likelihood of drawing a heart, a club, a diamond or a spade is equally likely. A coin also has a uniform distribution because the probability of getting either heads or tails in a coin toss is the same.
