@@ -19,7 +19,7 @@ To review the analysis methods and conclusions from the assigment:
 3. Run individual elements of the python code by highlighting cells and using command SHIFT+ENTER
 4. Consult the "Initial Research" section of this README file for information on my approach this assignment
 5. Consult the "Method" section of this README file for information on my methodology this assignment
-6. Consult the "References & Research" section of this README file for finformation on my further reading in relation to this assigment
+6. Consult the "References & Research" section of this README file for information on my further reading in relation to this assigment
 
 ## Initial Research
 From the lecture series and background material in the course throughout the opening 8 weeks it was clear that the assignment was likely to build on various aspects of the coursework introduced during the lecture series.
